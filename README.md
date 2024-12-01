@@ -16,3 +16,12 @@
 - To use mongodb-atlas create a `.env` file and define a key named `DB_URL` and its value will be your atlas URL. To use mongodb-local no need to define `DB_URL` in `.env`
 - Server uses cookies to handle authentication, which uses `JWT_SECRET` which is also defined in the `.env` file
 - After all these steps you are all set to run the server. Use the command `npm start`. The server will start on [PORT 5000](https://localhost:5000)
+
+## Problemset Page
+![mainPage](https://github.com/user-attachments/assets/2e028c29-671c-4488-9fb4-b2180b031592)
+
+## Problem Page
+![ProblemPage](https://github.com/user-attachments/assets/be0dc23a-b335-449c-8df4-6cc1737157af)
+
+## Code Editor
+![Editor](https://github.com/user-attachments/assets/e9cc6c7c-02c4-4081-b140-0fa04ab13a9f)
